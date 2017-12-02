@@ -38,5 +38,5 @@ The application contains 3 main entities/objects:
 
 #### Environment Details
 
-- For the development of this application, I have used Javascript with ES5 conventions using the NodeJS environment.
-- For writing and executing test cases for the developed code, I have used mocha, chai and sinon. I have used mocha for setting and executing test cases, chai for expect rules and sinon for sniffing console logs.
+- For the development of this application, I have used Javascript with ES5 conventions using the [NodeJS](https://nodejs.org/en/) environment.
+- For writing and executing test cases for the developed code, I have used [mocha](https://mochajs.org/), [chai](http://chaijs.com/) and [sinon](http://sinonjs.org/). I have used mocha for setting and executing test cases, chai for expect rules and sinon for sniffing console logs.
